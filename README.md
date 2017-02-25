@@ -17,6 +17,8 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
+What do all these symbols mean? #what? -what- (what) [what] {what}
+
 - Bulleted
 - List
 
